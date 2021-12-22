@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+ - :mortar_board: I'm currently a student from UTAR.
+ - :eyes:I'm intersted in mobile development:iphone:, web development:computer: and machine learning🤖.
+ - :thought_balloon: Self-learner.
+ - 📫 How to reach me: teeyeekai18@gmail.com
 <!--
 **TeeYeeKai/TeeYeeKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
