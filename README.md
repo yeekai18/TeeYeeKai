@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - :mortar_board: I'm currently a student from UTAR.
+ - :mortar_board: I'm a fresh graduate from UTAR and currenly work as a full time software developer.
  - :eyes:I'm intersted in mobile development:iphone:, web development:computer: and machine learning🤖.
  - :thought_balloon: Self-learner.
  - 📫 How to reach me: teeyeekai18@gmail.com
